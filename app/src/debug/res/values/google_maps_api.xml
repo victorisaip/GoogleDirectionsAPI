@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=97:25:E8:52:6F:28:84:D8:A6:45:FB:1E:78:D9:CD:30:60:77:54:3C%3Bcom.example.victo.mapsapi
+
+    You can also add your credentials to an existing key, using this line:
+    97:25:E8:52:6F:28:84:D8:A6:45:FB:1E:78:D9:CD:30:60:77:54:3C;com.example.victo.mapsapi
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAELJu1OqmjWVVx_CtJwGcrMQUm9EdZEvY</string>
+</resources>
